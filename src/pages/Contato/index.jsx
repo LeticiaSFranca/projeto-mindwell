@@ -1,6 +1,6 @@
 import './Contato.style.css';
 import React from 'react';
-import imgApresentacao from '../../assets/img/img-1.png';
+import imgContato from '../../assets/img/img-4.png';
 import { FaPaperPlane } from "react-icons/fa6";
 import { IoPersonSharp } from "react-icons/io5";
 import { FaPhone } from "react-icons/fa6";
@@ -17,12 +17,12 @@ export function Contato() {
     return (
         <>
             <section id='primeira-apresentacao'>
-                <img src={imgApresentacao} alt="img-apresentação" id='img-apresentacao' />
+                <img src={imgContato} alt="img-contato" id='img-apresentacao' />
                 <div id='texto-abertura'>
                     <h3 id='titulo-apresentacao'>Entrar em Contato</h3>
-                    <p>Oie! Quer entrar em contato comigo? Preencha esse formulário abaixo e sua mensagem
-                        chegará diretamente no meu email! Fique atento(a) ao email que você registrou neste formulário,
-                        pois irei te responder por lá! Abraços💖!
+                    <p>Conte-nos sobre suas dificuldades psicológicas e sentimentais na universidade, como você se sente!
+                        Deixe também conselho para pessoas que passam por isso e ajude-as! Lembre-se <b id='destaque-apresentacao'>será tudo
+                            de forma ANÔNIMA!</b>
                     </p>
                 </div>
             </section>

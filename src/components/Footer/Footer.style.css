@@ -6,35 +6,14 @@ footer{
     justify-content: center;
     flex-direction: column;
     text-align: center;
-    background-color: var(--cor-primaria);
+    background-color: var(--cor-quartenaria);
     padding-top: 4vh;
     padding-bottom: 4vh;
-    color: var(--cor-branca);
-}
+    color: var(--cor-primaria);
 
-#div-como-encontrar {
-    width: 20%;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    padding-top: 2vh;
-    flex-direction: row;
-    font-size: 25px;
-}
-
-#div-como-encontrar a{
-    color: var(--cor-branca);
-}
-
-.icones-como-encontrar:hover {
-    color: var(--cor-secundaria);
-    transition: ease-in-out 0.2s;
+    font-size: 14px;
 }
 
 @media (max-width: 1080px){
-    #div-como-encontrar {
-        width: 90%;
-        margin-top: 1vh;
-        font-size: 30px;
-    }
+
 }

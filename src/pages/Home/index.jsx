@@ -1,5 +1,7 @@
 import './Home.style.css';
+import { Link } from 'react-router-dom';
 import imgApresentacao from '../../assets/img/img-1.png';
+import logo from '../../assets/img/logo.png';
 import { useEffect } from 'react';
 import React from 'react';
 
@@ -14,36 +16,27 @@ export function Home() {
                 <img src={imgApresentacao} alt="img-apresentação" id='img-apresentacao' />
                 <div id='texto-abertura'>
                     <h3 id='titulo-apresentacao'>Bem-vindo(a)! Sinta-se em casa!</h3>
-                    <p>Fazemos parte de um projeto de engajamento cidadão, na qual o 
-                        nosso objetivo é ajudar as pessoas, nesse caso, o quesito é 
-                        saúde mental no ambiente universitário. A nossa proposta é 
-                        fazer um círculo psicológico, com o intuito de que possamos 
-                        escutar e auxiliar as pessoas que tenham dificuldades na esfera 
-                        universitária por causa de seus transtornos mentais. Que fique 
-                        de antemão, será tudo de forma anônima e facultativa, ou seja, 
-                        você pode escolher se quer participar. <b>Saiba que você também pode 
-                        ajudar outro pessoas!</b> Faça parte você também!
+                    <p>Fazemos parte de um <b id='destaque-apresentacao'>projeto de engajamento cidadão</b>, 
+                        na qual o nosso objetivo é ajudar as pessoas, nesse caso, o quesito é 
+                        <b id='destaque-apresentacao'> saúde mental no ambiente universitário</b>.
                     </p>
                 </div>
             </section>
 
-            {/* <section id='segunda-apresentacao'>
-                <Link to='/desenvolvimento-web' className='botoes-areas'>
-                    <img src={imgApresentacao} alt="Imagem 1" className='imgs-segunda-apresentacao'/>
-                        <p>Desenvolvimento Web<br /> e Design
-                        </p>
-                </Link>
+            <section id='segunda-apresentacao'>
+            <img src={logo} alt="logo" id='logo' />
+                <div id='texto-abertura'>
+                    <p>A nossa proposta é fazer um círculo psicológico, com o intuito de que possamos 
+                        escutar e auxiliar as pessoas que tenham dificuldades na esfera 
+                        universitária por causa de seus transtornos mentais. Que fique 
+                        de antemão, será tudo de forma anônima e facultativa, ou seja, 
+                        você pode escolher se quer participar. <b id='destaque-apresentacao'>
+                        Saiba que você também pode ajudar outras pessoas! Faça parte você também!</b>
+                    </p>
+                </div>
+            </section>
 
-                <Link to='/medicina-veterinaria' className='botoes-areas'>
-                    <img src={imgApresentacao2} alt="Imagem 1" className='imgs-segunda-apresentacao'/>
-                    <p><b>Medicina <br />Veterinária</b></p>
-                </Link>
-
-                <Link to='contato' className='botoes-areas'>
-                    <img src={imgApresentacao3} alt="Imagem 1" className='imgs-segunda-apresentacao'/>
-                    <p>Entrar em <br />Contato</p>
-                </Link>
-            </section> */}
+            <Link to='/contato' id='botao-ajuda'>Quero Ajudar!</Link>
         </>
     );
 }
