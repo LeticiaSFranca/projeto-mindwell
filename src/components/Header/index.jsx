@@ -6,12 +6,12 @@ import { FaTimes } from 'react-icons/fa';
 import { GrAppsRounded } from 'react-icons/gr';
 
 export function Header() {
-    const navRef = useRef<HTMLDivElement>(null);
+    const navRef = useRef(null);
 
     const showNavbar = () => {
         if (navRef.current) {
             navRef.current.classList.toggle('responsive_nav');
-        }
+        }   
     };
 
     return (

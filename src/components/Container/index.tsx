@@ -1,11 +1,7 @@
-import React from 'react';
 import './Container.style.css';
+import React from 'react';
 
-interface ContainerProps {
-    children: React.ReactNode;
-}
-
-export function Container({ children }: ContainerProps) {
+export function Container({ children }) {
     return (
         <section className="container">
             {children}
