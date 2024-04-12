@@ -55,6 +55,13 @@ export function Depoimentos() {
             resposta2 = 'Cantarolar me ajuda demais, conversar com minha namorada também, tomar água, entre outros.'
             resposta3 = 'Não se preocupar demais.'
             resposta4 = 'Não e espero que eu nem precise.' />
+
+            <CardDepoimentos
+            // Luiza
+            resposta1 = 'Ansiedade e TDAH.'
+            resposta2 = 'Procuro fazer coisas que eu considero relaxante, então gosto de ler.'
+            resposta3 = 'Concentrar quando tem muita gente conversando ao redor.'
+            resposta4 = 'Não e espero que eu nem precise.' />
             </div>
         </>
     );
