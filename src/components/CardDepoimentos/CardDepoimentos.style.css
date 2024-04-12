@@ -1,0 +1,63 @@
+#depoimentos-card {
+    width: 60%;
+    margin-top: 8vh;
+    background-color: var(--cor-branca);
+    padding: 2vh 1vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px var(--cor-secundaria);
+}
+
+#icone-depoimentos-card {
+    font-size: 70px;
+    display: flex;
+    padding: 0 2vw;
+    align-items: center;
+    justify-content: center;
+    color: var(--cor-primaria);
+}
+
+.perguntas-depoimentos {
+    color: var(--cor-terciaria);
+}
+
+.respostas-depoimentos {
+    color: var(--cor-secundaria);
+}
+
+#texto-depoimentos-card {
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+    text-align: left;
+    max-width: 50vw;
+
+    h3 {
+        font-weight: bolder;
+        font-size: 16px;
+        color: var(--cor-primaria);
+    }
+}
+
+@media (max-width: 1080px){
+    #depoimentos-card {
+        width: 90%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    #icone-depoimentos-card{
+        padding-top: 1vh;
+        padding-bottom: 3vh;
+    }
+
+    #texto-depoimentos-card{
+        max-width: 80vw;
+    }
+}

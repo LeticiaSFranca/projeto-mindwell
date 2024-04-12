@@ -1,0 +1,22 @@
+#titulo-depoimentos {
+    font-weight: bolder;
+    font-size: 20px;
+    color: var(--cor-primaria);
+    margin-top: 2vh;
+    text-align: center;
+}
+
+.todos-os-cards {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+@media (max-width: 1080px){
+    #texto-depoimentos-card {
+        max-width: 50vw;
+    }
+}
