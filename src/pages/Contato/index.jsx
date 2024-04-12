@@ -33,32 +33,22 @@ export function Contato() {
                     <br />
                     <label>
                         <span><i className="icon icon-user-1"></i><IoPersonSharp /> Nome</span>
-                        <input type="text" name="nome" required placeholder="Seu nome" />
-                    </label>
-
-                    <label>
-                        <span><i className="icon icon-email"></i><IoMdMail /> E-mail</span>
-                        <input type="text" name="email" className="fade_8S" placeholder="exemplo@email.com" />
-                    </label>
-
-                    <label>
-                        <span><i className="icon icon-email"></i><FaPhone /> Telefone</span>
-                        <input type="tel" name="celular" required placeholder="(31)91234-5678" id="telefone" />
+                        <input type="text" name="nome" required placeholder="Seu nome (será anônimo)" />
                     </label>
 
                     <label>
                         <span><i className="icon icon-flag"></i>< MdMarkunreadMailbox /> Assunto</span>
-                        <input type="text" name="assunto" required placeholder="ex: Orçamento" />
+                        <input type="text" name="assunto" required placeholder="ex: Meu Depoimento." />
                     </label>
 
                     <label>
                         <span><i className="icon icon-comment" id="caixaMensagem"></i><AiFillMessage /> Mensagem</span>
-                        <textarea name="mensagem" required placeholder="Digite aqui sua mensagem." />
+                        <textarea name="mensagem" required placeholder="Digite aqui sua experiência na universidade!" />
                     </label>
 
                     <input type="hidden" name="acao" value="enviar" />
                     <input type="hidden" name="_captcha" value="false" />
-                    <input type="hidden" name="_next" value="https://leticiafranca.vercel.app" />
+                    <input type="hidden" name="_next" value="https://projetowindwell.vercel.app" />
                     <button type="submit" className="btn-envia" title="Enviar"><b>Enviar <FaPaperPlane /></b></button>
                 </form>
                 <br />
