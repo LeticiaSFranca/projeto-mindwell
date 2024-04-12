@@ -3,8 +3,6 @@ import React from 'react';
 import imgContato from '../../assets/img/img-4.png';
 import { FaPaperPlane } from "react-icons/fa6";
 import { IoPersonSharp } from "react-icons/io5";
-import { FaPhone } from "react-icons/fa6";
-import { IoMdMail } from "react-icons/io";
 import { MdMarkunreadMailbox } from "react-icons/md";
 import { AiFillMessage } from "react-icons/ai";
 import { useEffect } from 'react';
