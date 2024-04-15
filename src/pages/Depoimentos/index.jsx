@@ -62,6 +62,20 @@ export function Depoimentos() {
             resposta2 = 'Procuro fazer coisas que eu considero relaxante, então gosto de ler.'
             resposta3 = 'Concentrar quando tem muita gente conversando ao redor.'
             resposta4 = 'Não e espero que eu nem precise.' />
+
+            <CardDepoimentos
+            // Rafael Bremtropp
+            resposta1 = 'Sim, possuo.'
+            resposta2 = 'Ar fresco e música quando posso.'
+            resposta3 = 'Tempo e foco.'
+            resposta4 = 'Não.' />
+
+            <CardDepoimentos
+            // Rebeca Oliveira
+            resposta1 = 'TDA (sem hiperatividade).'
+            resposta2 = 'Faço todo planejamento da semana, e tento não me frustar se não conseguir cumpri-los. Vivendo literalmente um dia de cada vez.'
+            resposta3 = 'Lidar com o sentimento de ser “sozinha”, o nível de responsabilidade e o desespero de estar atarefada demais.  '
+            resposta4 = 'Não.' />
             </div>
         </>
     );
