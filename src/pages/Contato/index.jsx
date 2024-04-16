@@ -40,8 +40,13 @@ export function Contato() {
                     </label>
 
                     <label>
-                        <span><i className="icon icon-comment" id="caixaMensagem"></i><AiFillMessage /> Mensagem</span>
+                        <span><i className="icon icon-comment" id="caixaMensagem"></i><AiFillMessage /> Experiência</span>
                         <textarea name="mensagem" required placeholder="Digite aqui sua experiência na universidade!" />
+                    </label>
+
+                    <label>
+                        <span><i className="icon icon-comment" id="caixaMensagem"></i><AiFillMessage /> Minha válvula de escape</span>
+                        <textarea name="mensagem" required placeholder="E qual sua válvula de escape/ como resolveu?" />
                     </label>
 
                     <input type="hidden" name="acao" value="enviar" />

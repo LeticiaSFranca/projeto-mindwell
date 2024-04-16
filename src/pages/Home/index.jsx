@@ -26,7 +26,7 @@ export function Home() {
             <section id='segunda-apresentacao'>
             <img src={logo} alt="logo" id='logo' />
                 <div id='texto-abertura'>
-                    <p>O objetivo do <b id='destaque-apresentacao'>Projeto WindWell</b> é fazer um círculo psicológico, com o intuito 
+                    <p>O objetivo do <b id='destaque-apresentacao'>Projeto MindWell</b> é fazer um círculo psicológico, com o intuito 
                         de que possamos escutar e auxiliar as pessoas que tenham dificuldades na esfera 
                         universitária por causa de seus transtornos mentais. Que fique 
                         de antemão, será tudo de forma anônima e facultativa, ou seja, 

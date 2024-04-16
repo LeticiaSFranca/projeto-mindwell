@@ -76,6 +76,48 @@ export function Depoimentos() {
             resposta2 = 'Faço todo planejamento da semana, e tento não me frustar se não conseguir cumpri-los. Vivendo literalmente um dia de cada vez.'
             resposta3 = 'Lidar com o sentimento de ser “sozinha”, o nível de responsabilidade e o desespero de estar atarefada demais.  '
             resposta4 = 'Não.' />
+
+            <CardDepoimentos
+            // Laura Ferreira
+            resposta1 = 'Sim.'
+            resposta2 = 'Me mantenho longe de grandes tecnologias, celular, internet e redes sociais'
+            resposta3 = '-'
+            resposta4 = '-' />
+
+            <CardDepoimentos
+            // Ana Clara Braga
+            resposta1 = 'Sim.'
+            resposta2 = 'Faço coisas que eu gosto, fazer bolos, ouvir música, vê algum filme que eu amo assim consigo distrair a cabeça e a gata ar os pensamentos ruins.'
+            resposta3 = 'Me concentrar nas aulas e controlar a ansiedade em conseguir compreender, aprender e ter a certeza que venci todas a matérias de forma clara.'
+            resposta4 = '-' />
+
+            <CardDepoimentos
+            // Pablo Washington
+            resposta1 = 'TDAH.'
+            resposta2 = 'Música.'
+            resposta3 = 'Concentração.'
+            resposta4 = 'Não.' />
+
+            <CardDepoimentos
+            // Pedro Henrique da Silva Rocha
+            resposta1 = 'Sim.'
+            resposta2 = 'Jogos no computador, jogar futebol e vôlei.'
+            resposta3 = 'Concentração em aula.'
+            resposta4 = 'Não.' />
+
+            <CardDepoimentos
+            // Matheus Manoel   
+            resposta1 = 'TDAH e ansiedade.'
+            resposta2 = 'Tentativas de desacelerar o cérebro com exercícios de respiração.'
+            resposta3 = 'Concentração e desenvolvimento próprio.'
+            resposta4 = 'Não.' />
+
+            <CardDepoimentos
+            // Carolina   
+            resposta1 = 'TDAH e ansiedade.'
+            resposta2 = 'Tentativas de desacelerar o cérebro com exercícios de respiração.'
+            resposta3 = 'Concentração e desenvolvimento próprio.'
+            resposta4 = 'Não.' />
             </div>
         </>
     );
