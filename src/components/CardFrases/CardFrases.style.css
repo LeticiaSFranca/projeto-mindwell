@@ -1,5 +1,6 @@
 #frases-card {
     width: 20%;
+    height: 45vh;
     margin: 5vh 1vw;
     background-color: var(--cor-branca);
     padding: 2vh 1vw;
@@ -24,7 +25,7 @@
     color: var(--cor-secundaria);
 }
 
-.respostas-frases {
+.autor-frases {
     color: var(--cor-terciaria);
 }
 
@@ -46,6 +47,7 @@
 @media (max-width: 1080px){
     #frases-card {
         width: 90%;
+        height: 30vh;
         display: flex;
         align-items: center;
         justify-content: center;

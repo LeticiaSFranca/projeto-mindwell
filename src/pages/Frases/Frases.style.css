@@ -84,7 +84,6 @@
     margin: 8vh 0;
     color: var(--cor-secundaria);
     font-weight: bolder;
-    text-shadow: 2px 2px 10px var(--cor-quartenaria);
 }
 
 @media (max-width: 1080px) {
