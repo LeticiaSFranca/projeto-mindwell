@@ -284,7 +284,27 @@ export function Frases() {
 
                 <CardFrases
                 frase = 'O inimigo não estaria te atacando com tanta força.'
-                nomeAutor = 'Salmos 23:4'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Quanto mais em paz nós estamos com nós mesmos, mais fácil é para Deus nos usar para tocar outras pessoas.'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'A sua luz deve brilhar, para que os outros vejam através de você, o pai que está no céu.'
+                nomeAutor = 'Mateus 5:16'
+                />
+
+                <CardFrases
+                frase = 'Mesmo quando você não consegue ouvir a voz de Deus, Ele te ouve.'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Orar por alguém, é dizer "eu te amo" escondido, é amar sem ser visto, sem platéias ou aplausos. Orar é fortalecer o outro, é abraçá-lo invisivelmente.'
+                nomeAutor = 'C.S. Lewis'
                 />
             </div>
         </>
