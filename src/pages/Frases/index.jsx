@@ -32,7 +32,7 @@ export function Frases() {
 
                 <a href='#frases-biblicas' className='botoes-areas'>
                     <FaBible className='imgs-segunda-apresentacao' />
-                    <p>Ir para<br />Frases Bíblicas</p>
+                    <p>Ir para<br />Frases Cristãs</p>
                 </a>
             </section>
 
@@ -230,11 +230,31 @@ export function Frases() {
                 frase = 'Quando algo parecer muito difícil, concentre-se no primeiro passo.'
                 nomeAutor = 'Desconhecido'
                  />
+
+                <CardFrases
+                frase = 'Que você nunca desista ser tudo aquilo que você sabe que nasceu pra ser.'
+                nomeAutor = 'Desconhecido'
+                 />
+
+                <CardFrases
+                frase = 'Se você foca na dor, continuará a sofrer. Se você foca na lição, continuará a crescer.'
+                nomeAutor = 'Desconhecido'
+                 />
+
+                <CardFrases
+                frase = 'Se você iluminar apenas as suas imperfeições, todas as suas qualidades ficarão na sombra.'
+                nomeAutor = 'Colleen Hoover'
+                 />
+
+                <CardFrases
+                frase = 'Se você iluminar apenas as suas imperfeições, todas as suas qualidades ficarão na sombra.'
+                nomeAutor = 'Colleen Hoover'
+                 />
             </div>
 
             {/* === Separação === */}
 
-            <h1 className='titulos-frases'>Frases Bíblicas</h1>
+            <h1 className='titulos-frases'>Frases Cristãs</h1>
 
             <div className='todos-cards-frases' id='frases-biblicas'>
                 <CardFrases
@@ -246,6 +266,26 @@ export function Frases() {
                 frase = 'Seus erros não te definem.'
                 nomeAutor = 'Salmos 37:24'
                  />
+
+                <CardFrases
+                frase = 'Você é toda linda, minha querida; Em você não há defeito algum.'
+                nomeAutor = 'Cântico 4:7'
+                 />
+
+                <CardFrases
+                frase = 'Jovem, você é a luz e o tempero do mundo.'
+                nomeAutor = 'Mateus 5: 13-16'
+                 />
+
+                <CardFrases
+                frase = 'Ainda que eu ande pelo vale da sombra da morte, não temerei mau algum. Pois tu estás comigo.'
+                nomeAutor = 'Salmos 23:4'
+                 />
+
+                <CardFrases
+                frase = 'O inimigo não estaria te atacando com tanta força.'
+                nomeAutor = 'Salmos 23:4'
+                />
             </div>
         </>
     );
