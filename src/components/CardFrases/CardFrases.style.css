@@ -1,6 +1,6 @@
 #frases-card {
     width: 20%;
-    margin-top: 8vh;
+    margin: 5vh 1vw;
     background-color: var(--cor-branca);
     padding: 2vh 1vw;
     display: flex;

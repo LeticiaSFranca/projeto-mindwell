@@ -36,7 +36,7 @@ export function Contato() {
 
                     <label>
                         <span><i className="icon icon-flag"></i>< MdMarkunreadMailbox /> Assunto</span>
-                        <input type="text" name="assunto" required placeholder="ex: Meu Depoimento." />
+                        <input type="text" name="assunto" required placeholder="ex: Meu Depoimento/Elogio/Sugestão." />
                     </label>
 
                     <label>
