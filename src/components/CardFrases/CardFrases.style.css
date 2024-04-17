@@ -1,0 +1,63 @@
+#frases-card {
+    width: 20%;
+    margin-top: 8vh;
+    background-color: var(--cor-branca);
+    padding: 2vh 1vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px var(--cor-secundaria);
+}
+
+#icone-frases-card {
+    font-size: 70px;
+    display: flex;
+    padding: 0 2vw;
+    align-items: center;
+    justify-content: center;
+    color: var(--cor-primaria);
+}
+
+.perguntas-frases {
+    color: var(--cor-secundaria);
+}
+
+.respostas-frases {
+    color: var(--cor-terciaria);
+}
+
+#texto-frases-card {
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+    text-align: left;
+    max-width: 50vw;
+
+    h3 {
+        font-weight: bolder;
+        font-size: 16px;
+        color: var(--cor-primaria);
+    }
+}
+
+@media (max-width: 1080px){
+    #frases-card {
+        width: 90%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    #icone-frases-card{
+        padding-top: 1vh;
+        padding-bottom: 3vh;
+    }
+
+    #texto-frases-card{
+        max-width: 80vw;
+    }
+}

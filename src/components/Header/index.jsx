@@ -22,6 +22,7 @@ export function Header() {
             <nav ref={navRef}>
                 <Link to="/" onClick={showNavbar}>Home</Link>
                 <Link to="/depoimentos" onClick={showNavbar}>Depoimentos</Link>
+                <Link to="/frases" onClick={showNavbar}>Frases Motivacionais</Link>
                 <Link to="/contato" onClick={showNavbar}>Contato</Link>
                 <button
                     className="nav_btn nav_close_btn"

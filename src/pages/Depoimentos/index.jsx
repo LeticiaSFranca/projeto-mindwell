@@ -113,11 +113,11 @@ export function Depoimentos() {
             resposta4 = 'Não.' />
 
             <CardDepoimentos
-            // Carolina   
-            resposta1 = 'TDAH e ansiedade.'
-            resposta2 = 'Tentativas de desacelerar o cérebro com exercícios de respiração.'
-            resposta3 = 'Concentração e desenvolvimento próprio.'
-            resposta4 = 'Não.' />
+            // Júlia Leal   
+            resposta1 = 'Sim.'
+            resposta2 = 'Leio livros de romance, assisto séries e oro.'
+            resposta3 = 'Manter o foco nas matérias e não me distrair.'
+            resposta4 = 'Não possuo.' />
             </div>
         </>
     );
