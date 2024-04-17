@@ -195,6 +195,41 @@ export function Frases() {
                 frase = 'Fique onde você se encaixa sem precisar forçar. Fique onde você significa muito, porque você é muito!'
                 nomeAutor = 'Desconhecido'
                  />
+
+                <CardFrases
+                frase = 'Tem muita beleza nas pessoas que tentam fazer as outras se sentirem bem!'
+                nomeAutor = 'Desconhecido'
+                 />
+
+                <CardFrases
+                frase = 'Você é aquele tipo de pessoa incrível que, mesmo depois de ter passado por tantas coisas ruins, continuou incrível!'
+                nomeAutor = 'Desconhecido'
+                 />
+
+                <CardFrases
+                frase = 'A qualidade da companhia influencia na beleza do caminho.'
+                nomeAutor = 'Desconhecido'
+                 />
+
+                <CardFrases
+                frase = 'Muitas pessoas tentam te desmotivar porque é nítido o medo que elas tem de você chegar onde elas não chegaram.'
+                nomeAutor = 'Desconhecido'
+                 />
+
+                <CardFrases
+                frase = 'Nenhum obstáculo será tão grande o suficiente se sua vontade de vencer for maior.'
+                nomeAutor = 'Desconhecido'
+                 />
+
+                <CardFrases
+                frase = 'Se perdoe. Você não tinha a maturidade que tem hoje.'
+                nomeAutor = 'Desconhecido'
+                 />
+
+                <CardFrases
+                frase = 'Quando algo parecer muito difícil, concentre-se no primeiro passo.'
+                nomeAutor = 'Desconhecido'
+                 />
             </div>
 
             {/* === Separação === */}
