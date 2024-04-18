@@ -295,6 +295,66 @@ export function Frases() {
                 frase = 'É sobre ter um coração fã de detalhes e que enxerga, antes de tudo essência.'
                 nomeAutor = 'Desconhecido'
                 />
+
+                <CardFrases
+                frase = 'Tudo que vale a pena, leva tempo e é difícil. Siga em frente!'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Metade de mim é força, e a outra está aprendendo a ser forte também!'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'É sobre ter um coração fã de detalhes e que enxerga, antes de tudo essência.'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Consulte suas esperanças. Não seus medos.'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Você é jovem demais para deixar o mundo quebrar você.'
+                nomeAutor = 'Taehyung'
+                />
+
+                <CardFrases
+                frase = 'É a sua energia que faz que as pessoas se apaixonem por você! Não é seu físico ou status que lhe torna inesquecível. É como você transforma o coração das pessoas com a sua presença!'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'O sucesso é a soma de pequenos esforços todos os dias!'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Não chore nem brigue. Você é a pessoa que não acontece duas vezes na vida de alguém!'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Nunca estaremos totalmente prontos. Mas, podemos conquistar coisas incríveis se tivermos coragem!'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Perdi muito tempo até aprender que não se guarda palavras. Ou você as fala, as escreve ou elas te sufocam.'
+                nomeAutor = 'Clarice Lispector'
+                />
+
+                <CardFrases
+                frase = 'Você não está cansado de fazer coisas demais. Está cansado de fazer pouco do que te faz sentir vivo!'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Se apaixone pelo processo.'
+                nomeAutor = 'Desconhecido'
+                />
             </div>
 
             {/* === Separação === */}
@@ -375,7 +435,137 @@ export function Frases() {
                 <CardFrases
                 frase = 'Ore até expelir sua dor. E depois torne orar um hábito.'
                 nomeAutor = 'Desconhecido'
-                />                
+                />     
+
+                <CardFrases
+                frase = 'Um dia você entenderá porque Deus permitiu que você chorasse tanto!'
+                nomeAutor = 'Desconhecido'
+                />           
+
+                <CardFrases
+                frase = 'Não pare de orar, a resposta virá na hora certa.'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Sorria! Você está sendo amado por Cristo!'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Nenhuma bênção está atrasada, porque o relógio de Deus está sempre certo!'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Eu tenho dado a Cristo, incontáveis razões para nãome amar, e nenhuma delas tem sido suficiente para mudá-lo.'
+                nomeAutor = 'Paul Washer'
+                />
+
+                <CardFrases
+                frase = 'Ele fará você rir denovo!'
+                nomeAutor = 'Jó 8:21'
+                />
+
+                <CardFrases
+                frase = 'Eu vim para tenham vida em abundância!'
+                nomeAutor = 'João 10:10'
+                />
+
+                <CardFrases
+                frase = 'Deixa Deus curar as feridas que a vida te causou!'
+                nomeAutor = 'Salmos 107:20'
+                />
+
+                <CardFrases
+                frase = 'Existe força brotando da sua fraqueza!'
+                nomeAutor = '2 Coríntios 12:9'
+                />
+
+                <CardFrases
+                frase = 'Deus te reconstruirá quantas vezes for necessário!'
+                nomeAutor = '1 Coríntios 3:16'
+                />
+
+                <CardFrases
+                frase = 'Você não está só!'
+                nomeAutor = 'Mateus 28:20'
+                />
+
+                <CardFrases
+                frase = 'O único que podia nos julgar, nos amou!'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Ela não é forte. Forte mesmo é o Deus que habita nela!'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'As coisas terrenas não preenchem um coração que foi feito para o céu!'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Todas as coisas contribuem para o bem daqueles que amam a Deus.'
+                nomeAutor = 'Romanos 8:28'
+                />
+
+                <CardFrases
+                frase = 'Batei e a porta vos será aberta.'
+                nomeAutor = 'Mateus 7:7-12'
+                />
+
+                <CardFrases
+                frase = 'Se seu coração está batendo, significa que os planos de Deus ainda não foram totalmente realizados!'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Sejam fortes e corajosos! Não fiquem assustados, nem tenham medo[...] Pois aquele que está do nosso lado é mais poderoso[...].'
+                nomeAutor = '2 Crônicas 32:7'
+                />
+
+                <CardFrases
+                frase = 'Pois o Espírito Santo de Deus que me fez e é o sopro do Todo-Poderoso que me da vida.'
+                nomeAutor = 'Jó 33:4'
+                />
+
+                <CardFrases
+                frase = 'Lembrem que o Senhor Deus trata com cuidado especial aqueles que são fiéis a Ele; o Senhor me ouve quando eu o chamo.'
+                nomeAutor = 'Salmos 4:3'
+                />
+
+                <CardFrases
+                frase = 'Felizes são aqueles que buscam a proteção de Deus!'
+                nomeAutor = 'Salmos 2:12'
+                />
+
+                <CardFrases
+                frase = 'Não se aborreça por causa dos maus, nem tenha inveja dos que praticam o mau. Pois eles vão desaparecer logo como a erva que seca; eles morrerão como as plantas que murcham.'
+                nomeAutor = 'Salmos 37:1-2'
+                />
+
+                <CardFrases
+                frase = 'Os ensinamentos das pessoas sábias são uma fonte de vida; eles ajudam a evitar as armadilhas da morte.'
+                nomeAutor = 'Provérbios 13:14'
+                />
+
+                <CardFrases
+                frase = 'Só quem sabe a dor de se perder...sabe a felicidade de ser encontrado por Jesus!'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Use o dom que Deus te deu, para que outras pessoas se beneficiem dele!'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Estejam vigilantes, mantenham-se firmes na fé, sejam corajosos, sejam fortes.'
+                nomeAutor = '1 Coríntios 16:13'
+                />
             </div>
         </>
     );
