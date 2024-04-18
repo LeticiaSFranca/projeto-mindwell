@@ -247,9 +247,54 @@ export function Frases() {
                  />
 
                 <CardFrases
-                frase = 'Se você iluminar apenas as suas imperfeições, todas as suas qualidades ficarão na sombra.'
-                nomeAutor = 'Colleen Hoover'
-                 />
+                frase = 'A maior coragem está em dar o primeiro passo. Depois é só enfrentar a caminhada e você chegará-la!'
+                nomeAutor = 'Beatriz Mello'
+                />
+
+                <CardFrases
+                frase = 'Ser bom em algo não é um dom, mas sim treino!'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Sem lutas, não há vitória.'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'As melhores coisas da vida não são coisas. São sensações, momentos, conexões. Espero que você tenha as mais incríveis!'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Não é todo mundo que vai entender seu caminho. E tudo bem. O caminho é seu, não deles.'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Nunca perco. Ou eu ganho, ou eu aprendo.'
+                nomeAutor = 'Nelson Mandela'
+                />
+
+                <CardFrases
+                frase = 'Somos o que fazemos repetidamente. Excelência não é um ato, mas sim um hábito.'
+                nomeAutor = 'Aristóteles'
+                />
+
+                <CardFrases
+                frase = 'Seja a pessoa que ninguém acreditou que você seria.'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Não sou perfeito(a). Mas sou uma versão difícil de ser encontrado(a).'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'É sobre ter um coração fã de detalhes e que enxerga, antes de tudo essência.'
+                nomeAutor = 'Desconhecido'
+                />
             </div>
 
             {/* === Separação === */}
@@ -306,6 +351,31 @@ export function Frases() {
                 frase = 'Orar por alguém, é dizer "eu te amo" escondido, é amar sem ser visto, sem platéias ou aplausos. Orar é fortalecer o outro, é abraçá-lo invisivelmente.'
                 nomeAutor = 'C.S. Lewis'
                 />
+
+                <CardFrases
+                frase = 'Nenhuma folha caia sem que Deus permita. Para tudo possui um propósito.'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Todos nós precisamos de um momento de escuridão para ver o que brilha em nossas vidas.'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Quando ela não consegue sorrir, ela ora. Esse é o segredo da força dela.'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Alguns planos de Deus doem, mas todos são perfeitos.'
+                nomeAutor = 'Desconhecido'
+                />
+
+                <CardFrases
+                frase = 'Ore até expelir sua dor. E depois torne orar um hábito.'
+                nomeAutor = 'Desconhecido'
+                />                
             </div>
         </>
     );
