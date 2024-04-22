@@ -118,6 +118,13 @@ export function Depoimentos() {
             resposta2 = 'Leio livros de romance, assisto séries e oro.'
             resposta3 = 'Manter o foco nas matérias e não me distrair.'
             resposta4 = 'Não possuo.' />
+
+            <CardDepoimentos
+            // Gabriela Bitencourt
+            resposta1 = 'Sim, tdah e ansiedade.'
+            resposta2 = 'Jogo voleibol.'
+            resposta3 = 'Focar, procastinar.'
+            resposta4 = 'Não possuo.' />
             </div>
         </>
     );
