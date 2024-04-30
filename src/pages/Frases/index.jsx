@@ -566,6 +566,11 @@ export function Frases() {
                 frase = 'Estejam vigilantes, mantenham-se firmes na fé, sejam corajosos, sejam fortes.'
                 nomeAutor = '1 Coríntios 16:13'
                 />
+
+                <CardFrases
+                frase = 'E tudo que pedires em oração, crendo, recebereis.'
+                nomeAutor = 'Mateus 21:22'
+                />
             </div>
         </>
     );
