@@ -125,6 +125,13 @@ export function Depoimentos() {
             resposta2 = 'Jogo voleibol.'
             resposta3 = 'Focar, procastinar.'
             resposta4 = 'Não possuo.' />
+
+            <CardDepoimentos
+            // ???
+            resposta1 = 'Não.'
+            resposta2 = 'Fujo de tudo lendo livros ou assistindo filmes/series.'
+            resposta3 = 'Superar a timidez e a insegurança para ser mais participativa nas aulas e tirar dúvidas.'
+            resposta4 = 'Não.' />
             </div>
         </>
     );
