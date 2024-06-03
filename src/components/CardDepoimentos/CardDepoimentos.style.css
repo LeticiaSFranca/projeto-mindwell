@@ -43,7 +43,7 @@
     }
 }
 
-@media (max-width: 1080px){
+@media (max-width: 1080px) {
     #depoimentos-card {
         width: 90%;
         display: flex;
@@ -52,12 +52,12 @@
         flex-direction: column;
     }
 
-    #icone-depoimentos-card{
+    #icone-depoimentos-card {
         padding-top: 1vh;
         padding-bottom: 3vh;
     }
 
-    #texto-depoimentos-card{
+    #texto-depoimentos-card {
         max-width: 80vw;
     }
 }

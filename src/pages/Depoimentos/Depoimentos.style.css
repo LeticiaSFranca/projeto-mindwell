@@ -16,7 +16,7 @@
     flex-wrap: wrap;
 }
 
-@media (max-width: 1080px){
+@media (max-width: 1080px) {
     #texto-depoimentos-card {
         max-width: 50vw;
     }

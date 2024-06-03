@@ -5,7 +5,7 @@
     justify-content: space-evenly;
     flex-direction: row;
     margin: 5vh 0;
-}   
+}
 
 #texto-abertura {
     max-width: 36vw;
@@ -36,9 +36,9 @@
     justify-content: space-evenly;
     flex-direction: row-reverse;
     margin: 5vh 0;
-}   
+}
 
-#segunda-apresentacao p{
+#segunda-apresentacao p {
     text-align: right;
 }
 
@@ -62,7 +62,7 @@
     transition: 0.5s ease-in-out;
 }
 
-@media (max-width: 1080px){
+@media (max-width: 1080px) {
     #primeira-apresentacao {
         display: flex;
         align-items: center;

@@ -1,9 +1,18 @@
 import './Footer.style.css';
 
 export function Footer() {
+    const currentYear = new Date().getFullYear();
+
     return (
         <footer>
-            <p>Desenvolvido por <a href="https://leticiafranca.com.br" target="_blank" rel="noopener noreferrer">Letícia França</a> <br />Projeto de uma Unidade Curricular da Faculdade</p>
+            <p>
+                Copyright &copy; {currentYear}{' '}
+                <a href="https://gf-company.vercel.app/" target="_blank">
+                    GF Company
+                </a>{' '}
+                <br />
+                Projeto de uma Unidade Curricular da Faculdade
+            </p>
         </footer>
     );
 }

@@ -44,7 +44,7 @@
     }
 }
 
-@media (max-width: 1080px){
+@media (max-width: 1080px) {
     #frases-card {
         width: 90%;
         height: 30vh;
@@ -54,12 +54,12 @@
         flex-direction: column;
     }
 
-    #icone-frases-card{
+    #icone-frases-card {
         padding-top: 1vh;
         padding-bottom: 3vh;
     }
 
-    #texto-frases-card{
+    #texto-frases-card {
         max-width: 80vw;
     }
 }
