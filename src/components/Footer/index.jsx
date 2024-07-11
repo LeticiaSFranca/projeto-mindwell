@@ -7,8 +7,8 @@ export function Footer() {
         <footer>
             <p>
                 Copyright &copy; {currentYear}{' '}
-                <a href="https://gf-company.vercel.app/" target="_blank">
-                    GF Company
+                <a href="https://gfcodes.vercel.app/" target="_blank">
+                    GF Codes
                 </a>{' '}
                 <br />
                 Projeto de uma Unidade Curricular da Faculdade
