@@ -1,6 +1,8 @@
 # MindWell
 O projeto foi desenvolvido com o objetivo de criar um círculo psicológico, denominado Projeto MindWell, com a finalidade de escutar e auxiliar as pessoas que enfrentam dificuldades na esfera universitária devido a transtornos mentais. Todas as atividades serão realizadas de forma anônima e facultativa, permitindo que os participantes escolham se querem ou não participar. Além disso, os participantes terão a oportunidade de ajudar outras pessoas.
 
+<img width="1440" alt="Imagem da página principal do projeto MindWell" src="https://github.com/LeticiaSFranca/projeto-mindwell/assets/96635074/7c7c9493-5f6c-4540-af32-be633b0db497">
+
 ## 🔨 Funcionalidade do projeto
 Para concretizar o objetivo principal de servir como um auxílio psicológico no ambiente universitário, o site possui uma aba de depoimentos de usuários anônimos, a fim de ajudar pessoas que estão passando por problemas semelhantes. Além disso, há uma página com frases motivacionais para inspirar os estudantes e uma página de contato caso algum usuário deseje enviar uma mensagem anônima ou tirar dúvidas com as criadoras do projeto.
 
