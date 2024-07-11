@@ -1,8 +1,14 @@
-# React + Vite
+# MindWell
+O projeto foi desenvolvido com o objetivo de criar um círculo psicológico, denominado Projeto MindWell, com a finalidade de escutar e auxiliar as pessoas que enfrentam dificuldades na esfera universitária devido a transtornos mentais. Todas as atividades serão realizadas de forma anônima e facultativa, permitindo que os participantes escolham se querem ou não participar. Além disso, os participantes terão a oportunidade de ajudar outras pessoas.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔨 Funcionalidade do projeto
+Para concretizar o objetivo principal de servir como um auxílio psicológico no ambiente universitário, o site possui uma aba de depoimentos de usuários anônimos, a fim de ajudar pessoas que estão passando por problemas semelhantes. Além disso, há uma página com frases motivacionais para inspirar os estudantes e uma página de contato caso algum usuário deseje enviar uma mensagem anônima ou tirar dúvidas com as criadoras do projeto.
 
-Currently, two official plugins are available:
+## 💻 Tecnologias usadas
+* [React.js](https://pt-br.react.dev/blog/2023/03/16/introducing-react-dev): usado para criar interfaces de usuário em páginas da Web
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): linguagem de programação usada como base do projeto, a fim de torná-lo dinâmico
+* [TypeScript](https://www.typescriptlang.org/pt/docs/): linguagem de programação desenvolvida para adicionar recursos avançados ao JavaScript, como tipagem estática e interfaces
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): usado para a estilização de página, animação e capacidade de resposta
 
--   [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
--   [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📁 Acesso ao projeto
+Você pode visualizar a página hospedada clicando [aqui](https://projetomindwell.vercel.app/).
